@@ -1,6 +1,6 @@
  # Applied Deep Learning
 
-2022 Applied Deep Learning term project
+## 2022 Applied Deep Learning term project
 
 
 1) FNN architecture:
