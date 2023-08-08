@@ -1,6 +1,7 @@
  # Applied Deep Learning
 
 ## 2022 Applied Deep Learning term project
+Image classification for similar object
 <br></br>
 1) FNN architecture:
 <br></br>
